@@ -2,7 +2,7 @@
 """
 Created on Thu Nov 22 20:17:31 2018
 
-@author: markc
+@author: markcowley
 """
 import functools, math # Will need these for map, reduce and math functions.
 class Calculator(object): #Create class with instance variables
